@@ -8,10 +8,11 @@ Cybersecurity refers to the practice of protecting systems, networks, and data f
 - Prevents financial losses  
 - Ensures business continuity
 
-##  Topics covered
-- Types of malware,attacks
-- Nist frame work
-- Cybersecurity Threats, Vulnerabilities, and Attacks 
+## Topics Covered  
+- **Types of Malware & Attacks** – Overview of viruses, trojans, ransomware, phishing, etc.  
+- **NIST Framework** – A structured approach to cybersecurity.  
+- **Cybersecurity Threats, Vulnerabilities, and Attacks** – Understanding risks in security.  
+
 ##  Hands-on Lab  
 - Completed TryHackMe Cybersecurity Introduction Room  
 - Learned about different types of cyber threats  
