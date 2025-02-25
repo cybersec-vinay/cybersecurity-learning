@@ -13,10 +13,10 @@ Cybersecurity refers to the practice of protecting systems, networks, and data f
 - **NIST Framework** – A structured approach to cybersecurity.  
 - **Cybersecurity Threats, Vulnerabilities, and Attacks** – Understanding risks in security.  
 
-##  Hands-on Lab  
-- Completed TryHackMe Cybersecurity Introduction Room  
-- Learned about different types of cyber threats  
+## Hands-on Lab  
+- Completed `TryHackMe Cybersecurity Introduction Room`  
+- Learned about different types of **cyber threats**  
 
-##  Resources Used  
-- Cisco Cybersecurity Essentials  
-- TryHackMe Cybersecurity Intro  
+## Resources Used  
+- 🔗 [**Cisco Cybersecurity Essentials**](https://www.netacad.com/courses/intro-cybersecurity)  
+- 🔗 [**TryHackMe Cybersecurity Intro**](https://tryhackme.com/room/cybersecurityintro) 
