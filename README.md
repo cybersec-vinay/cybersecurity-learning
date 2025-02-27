@@ -10,7 +10,7 @@ Welcome to the **Cybersecurity Projects Repository**! This repository contains s
 ## 📜 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/cybersec-vinay/cybersecurity-learning
+   https://github.com/cybersec-vinay/cybersecurity-learning
    ```
 2. Follow the instructions provided in each project folder.
 
